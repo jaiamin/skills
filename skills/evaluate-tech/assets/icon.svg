@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+<defs><linearGradient id="evaluate-tech-bg" x1="8" y1="0" x2="56" y2="64" gradientUnits="userSpaceOnUse"><stop stop-color="#285CEC"/><stop offset="1" stop-color="#1736A6"/></linearGradient></defs>
+<rect width="64" height="64" rx="16" fill="url(#evaluate-tech-bg)"/>
+<path d="M16 46V34M26 46V25M36 46V37" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<circle cx="39" cy="24" r="10" fill="#1736A6" stroke="white" stroke-width="3.5"/>
+<path d="m46.5 31.5 7 7" stroke="white" stroke-width="4.5" stroke-linecap="round"/>
+<path d="m35 24 2.5 2.5 5-5" stroke="#A9E6FF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
