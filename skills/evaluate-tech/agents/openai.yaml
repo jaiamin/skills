@@ -1,0 +1,13 @@
+interface:
+  display_name: "Evaluate Tech"
+  short_description: "Research tools by capability, cost, and learning value"
+  default_prompt: "Use $evaluate-tech to research the leading tools in this category and recommend what is most worth learning or using today."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  products:
+    - "chatgpt"
+    - "codex"
+    - "api"
+    - "atlas"
+  allow_implicit_invocation: true

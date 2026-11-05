@@ -1,0 +1,13 @@
+interface:
+  display_name: "make-it-click"
+  short_description: "Understand what something is and how it really works"
+  default_prompt: "Use $make-it-click to explain this concept intuitively: what it is, how it actually works, and the important details that make it click."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  products:
+    - "chatgpt"
+    - "codex"
+    - "api"
+    - "atlas"
+  allow_implicit_invocation: true

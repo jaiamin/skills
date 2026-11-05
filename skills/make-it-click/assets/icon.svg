@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+<defs><linearGradient id="make-it-click-bg" x1="8" y1="0" x2="56" y2="64" gradientUnits="userSpaceOnUse"><stop stop-color="#F4A52B"/><stop offset="1" stop-color="#CC6B10"/></linearGradient></defs>
+<rect width="64" height="64" rx="16" fill="url(#make-it-click-bg)"/>
+<path d="M23 40c0-3-6-6.4-6-14a15 15 0 0 1 30 0c0 7.6-6 11-6 14" stroke="white" stroke-width="3.8" stroke-linecap="round"/>
+<path d="M24 44h16m-13 6h10" stroke="white" stroke-width="3.8" stroke-linecap="round"/>
+<path d="m32 19 2.8 6.2L41 28l-6.2 2.8L32 37l-2.8-6.2L23 28l6.2-2.8Z" fill="white"/>
+<path d="m12 13 3 3m34 0 3-3M9 27h3m40 0h3" stroke="white" stroke-width="2.8" stroke-linecap="round"/>
+</svg>
